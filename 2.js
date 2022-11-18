@@ -1,7 +1,3 @@
-let text = "2.jsのテキスト";
-
-console.log("aaa");
+const text = "ピカ";
 
 export {text};
-
-console.log("bbb");
